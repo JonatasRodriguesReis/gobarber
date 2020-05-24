@@ -2,7 +2,7 @@ import Sequelize from 'sequelize'
 import mongoose from 'mongoose'
 import User from '../app/models/User'
 //import databaseConfig from '../config/database.json'
-import databaseConfig from '../config/database'
+import databaseConfig from '../config/database.js'
 import File from '../app/models/File'
 import Appointment from '../app/models/Appointment'
 const models = [User,File,Appointment]
