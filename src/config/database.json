@@ -1,0 +1,23 @@
+{
+  "development": {
+    "username": "postgres",
+    "password": "docker",
+    "database": "gobarber",
+    "host": "192.168.99.100",
+    "dialect": "postgres"
+  },
+  "test": {
+    "username": "postgres",
+    "password": "docker",
+    "database": "gobarber",
+    "host": "192.168.99.100",
+    "dialect": "postgres"
+  },
+  "production": {
+    "username": "postgres",
+    "password": "docker",
+    "database": "gobarber",
+    "host": "192.168.99.100",
+    "dialect": "postgres"
+  }
+}
